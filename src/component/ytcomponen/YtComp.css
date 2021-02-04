@@ -1,0 +1,25 @@
+.time {
+    margin-left: 6.7cm;
+    background-color: darkblue !important;
+    margin-top: -1cm;
+}
+
+.img-thumb {
+    height: 5cm;
+    width: 8cm;
+}
+
+.ytwrapper {
+    position: static;
+}
+
+.title {
+    font-style: bold;
+    margin-top: -0.01cm;
+}
+
+.desc {
+    font-size: 1.5ch;
+    color: darkslategrey;
+    margin-top: -0.3cm;
+}
